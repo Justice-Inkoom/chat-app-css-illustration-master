@@ -217,8 +217,8 @@ p{
 	color:white;
 	font-size:30px;
 	position:relative;
-	left:82%;
-	bottom:50px;
+	left:84%;
+	bottom:20px;
 	text-align:center;
 }
 /*end of chats message*/
@@ -291,7 +291,7 @@ p{
 	
 	.text-message{
 		height:50px;
-		margin:10px 10px 10px 10px;
+		margin:10px 10px 10px 0px;
 	}
 
 	.simple-booking{
