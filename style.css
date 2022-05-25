@@ -217,8 +217,8 @@ p{
 	color:white;
 	font-size:30px;
 	position:relative;
-	left:79%;
-	bottom:58px;
+	left:82%;
+	bottom:50px;
 	text-align:center;
 }
 /*end of chats message*/
@@ -290,6 +290,7 @@ p{
 	}
 	
 	.text-message{
+		height:50px;
 		margin:10px 10px 10px 10px;
 	}
 
@@ -314,6 +315,7 @@ p{
 	}
 	
 	.text-message{
+		height:50px;
 		margin:2px 10px 10px 10px;	
 	}
 }
