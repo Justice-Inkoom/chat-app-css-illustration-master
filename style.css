@@ -268,7 +268,7 @@ p{
 /*tablet and phone screen*/
 @media screen and (max-width:636px){
 	.project{
-		height:200vh;
+		height:160vh;
 	}
 
 	.background-design{
