@@ -291,7 +291,7 @@ p{
 	
 	.text-message input{
 		height:50px;
-		margin:10px 10px 10px 0px;
+		margin:10px 10px 10px 10px;
 	}
 
 	.simple-booking{
@@ -316,6 +316,6 @@ p{
 	
 	.text-message input{
 		height:50px;
-		margin:2px 10px 10px 0px;	
+		margin:10px 10px 10px 10px;	
 	}
 }
