@@ -289,7 +289,7 @@ p{
 		height:530px;
 	}
 	
-	.text-message{
+	.text-message input{
 		height:50px;
 		margin:10px 10px 10px 0px;
 	}
@@ -314,8 +314,8 @@ p{
 		height:530px;
 	}
 	
-	.text-message{
+	.text-message input{
 		height:50px;
-		margin:2px 10px 10px 10px;	
+		margin:2px 10px 10px 0px;	
 	}
 }
