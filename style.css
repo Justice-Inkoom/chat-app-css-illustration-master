@@ -293,6 +293,14 @@ p{
 		height:50px;
 		margin:10px 10px 10px 10px;
 	}
+	
+	.butt-1{
+		width:46px;
+		height:46px;
+		font-size:40px;
+		bottom:50px;
+		left:79%;
+	}
 
 	.simple-booking{
 		padding-top:100px;
@@ -317,5 +325,13 @@ p{
 	.text-message input{
 		height:50px;
 		margin:10px 10px 10px 10px;	
+	}
+	
+	.butt-1{
+		width:46px;
+		height:46px;
+		font-size:40px;
+		bottom:50px;
+		left:79%;
 	}
 }
