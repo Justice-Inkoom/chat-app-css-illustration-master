@@ -254,12 +254,39 @@ p{
 
 /*tablet screen*/
 @media screen and (max-width:768px){
+	.project{
+		height:175vh;
+	}
+	
 	.background-design{
 		border-radius:0 0 90% 0;
 	}
 
 	.platform{
 		padding:3% 5%;
+	}
+	
+	/* */
+	.phone-outer{
+		height:550px;
+	}
+	
+	.phone-inner{
+		height:530px;
+	}
+	
+	.text-message input{
+		height:50px;
+		margin:10px 10px 10px 10px;
+	}
+	
+	.butt-1{
+		width:46px;
+		height:46px;
+		font-size:35px;
+		padding-bottom:40px;
+		bottom:58px;
+		left:79%;
 	}
 	
 }
