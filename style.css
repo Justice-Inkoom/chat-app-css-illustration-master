@@ -250,6 +250,20 @@ p{
 	.platform{
 		padding:3% 5%;	
 	}
+	
+	.text-message input{
+		height:35px;
+		margin:10px 10px 10px 10px;
+	}
+	
+	.butt-1{
+		width:35px;
+		height:35px;
+		font-size:35px;
+		padding-bottom:40px;
+		bottom:45px;
+		left:79%;
+	}
 }
 
 
@@ -260,6 +274,7 @@ p{
 	}
 	
 	.background-design{
+		height:600px;
 		border-radius:0 0 90% 0;
 	}
 
@@ -296,7 +311,7 @@ p{
 /*tablet and phone screen*/
 @media screen and (max-width:636px){
 	.project{
-		height:160vh;
+		height:140vh;
 	}
 
 	.background-design{
