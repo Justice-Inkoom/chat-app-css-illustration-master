@@ -218,7 +218,7 @@ p{
 	font-size:30px;
 	position:relative;
 	left:83%;
-	bottom:45px;
+	bottom:47px;
 	text-align:center;
 	padding:1px;
 }
@@ -298,11 +298,11 @@ p{
 	}
 	
 	.butt-1{
-		width:46px;
-		height:46px;
+		width:48px;
+		height:48px;
 		font-size:35px;
 		padding-bottom:40px;
-		bottom:58px;
+		bottom:60px;
 		left:79%;
 	}
 	
@@ -322,7 +322,7 @@ p{
 	.platform{
 		display:grid;
 		grid-template-columns:auto;
-		padding: 5% 3%;
+		padding: 8% 3%;
 	}
 	
 	.phone-outer{
@@ -343,7 +343,7 @@ p{
 		height:48px;
 		font-size:35px;
 		padding-bottom:40px;
-		bottom:58px;
+		bottom:60px;
 		left:79%;
 	}
 
@@ -376,7 +376,7 @@ p{
 		width:48px;
 		height:48px;
 		font-size:35px;
-		bottom:58px;
+		bottom:60px;
 		padding-bottom:40px;
 		left:79%;
 	}
