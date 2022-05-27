@@ -14,5 +14,5 @@ This project is in reference to Amalitech Training, so if you intend to join Ama
 
 ## Deploying the project
 * This project is deployed freely via [netlify](https://netlify.com).
-* You can [sign up](https://app.netlify.com/signup?) for free connect it with your github.
+* You can [sign up](https://app.netlify.com/signup?) for free and connect it to your github account.
 You are at liberty to choose whether you want netlify to have access to all your github projects or any number of your choice.
