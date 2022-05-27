@@ -8,7 +8,7 @@ This project is in reference to Amalitech Training, so if you intend to join Ama
 
 ## Building the project
 * This project was built in [vs code](https://code.visualstudio.com/) and uploaded onto [github](https://github.com).
-* Google chrome developer tools were used to check how responsive the project was during the build-up.
+* Google chrome's developer tools were used to check how responsive the project was during the build-up.
 * Google lens was used in relation to google search to find the colors.
 * When the project was done the deployment website also showed some wrong arrangement in some of the elements and hence reprogramming was done to the codes on github.
 
