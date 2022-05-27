@@ -12,6 +12,12 @@ This project is in reference to Amalitech Training, so if you intend to join Ama
 * Google lens was used in relation to google search to find the colors.
 * When the project was done the deployment website also showed some wrong arrangements in some of the elements and hence reprogramming was done to the codes on github.
 
+## Responsiveness
+This project is meant to be responsive, thus, should fit any screen size.
+* The desktop appearance is what you see above.
+* The mobile appearance is right below:
+* ![Mobile design preview](./designs/mobile-preview.jpg)
+
 ## Deploying the project
 * This project is deployed freely via [netlify](https://netlify.com).
 * You can [sign up](https://app.netlify.com/signup?) for free and connect it to your github account.
