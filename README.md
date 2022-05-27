@@ -15,7 +15,7 @@ This project is in reference to Amalitech Training, so if you intend to join Ama
 ## Responsiveness
 This project is meant to be responsive, thus, should fit any screen size.
 * The desktop appearance is what you see above.
-* The mobile appearance is right below...
+* The mobile appearance is right below: <br>
 ![Mobile design preview](./designs/mobile-design.jpg)
 
 ## Deploying the project
