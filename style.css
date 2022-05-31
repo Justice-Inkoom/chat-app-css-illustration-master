@@ -348,7 +348,8 @@ p{
 
 @media screen and (max-width:500px){
 	.background-design{
-		
+		width:200px;
+		left: -95px;
 	}
 	
 	.phone-outer{
