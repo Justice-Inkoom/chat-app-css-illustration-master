@@ -124,7 +124,7 @@ p{
 /*chats message*/
 
 .chat-1 p{
-	background:#D3D3D3;
+	background:rgba(238, 229, 244, 1);
 	width:160px;
 	color:rgba(147, 65, 200, 1);
 	margin:5px 10px;
@@ -168,7 +168,7 @@ p{
 }
 
 .chat-3 p{
-	background:#D3D3D3;
+	background:rgba(238, 229, 244, 1);
 	color:rgba(147, 65, 200, 1);
 	width:155px;
 	font-size:10px;
@@ -245,9 +245,9 @@ p{
 	}
 	
 	.background-design{
-		width:20%;
-		height:550px;
-		border-radius:0 0 90% 70px;
+		width: 280px;
+		border-radius:0 0 255px 255px;
+		left: -70px;
 	}
 
 	.platform{
@@ -259,12 +259,14 @@ p{
 /*tablet screen*/
 @media screen and (max-width:768px){
 	.project{
-		height:170vh;
+		height:140vh;
 	}
 	
 	.background-design{
-		height: 550px;
-		border-radius:0 0 90% 0;
+		width:210px
+		border-radius:0 0 255px 255px;
+		height:980px;
+		left:-90px;
 	}
 
 	.platform{
@@ -272,12 +274,13 @@ p{
 	}
 	
 	/* */
+	
 	.phone-outer{
-		height:550px;
+		height:530px;
 	}
 	
 	.phone-inner{
-		height:530px;
+		height:510px;
 	}
 	
 	.text-message input{
@@ -300,12 +303,12 @@ p{
 /*tablet and phone screen*/
 @media screen and (max-width:636px){
 	.project{
-		height:135vh;
+		height:130vh;
 	}
 
 	.background-design{
-		width:250px;
-		border-radius:0 0 100% 0;
+		width:350px;
+		
 	}
 
 	.platform{
@@ -368,5 +371,11 @@ p{
 		bottom:59px;
 		padding-bottom:40px;
 		left:79%;
+	}
+}
+
+@media screen and (max-width:370px){
+	.project{
+		height:130vh;
 	}
 }
