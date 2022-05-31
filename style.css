@@ -259,7 +259,7 @@ p{
 /*tablet screen*/
 @media screen and (max-width:768px){
 	.project{
-		height:165vh;
+		height:170vh;
 	}
 	
 	.background-design{
