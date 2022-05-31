@@ -241,7 +241,7 @@ p{
 /*laptop screen*/
 @media screen and (max-width:1024px){
     .project{
-		height:130vh;
+		height:140vh;
 	}
 	
 	.background-design{
@@ -259,7 +259,7 @@ p{
 /*tablet screen*/
 @media screen and (max-width:768px){
 	.project{
-		height:140vh;
+		height:150vh;
 	}
 	
 	.background-design{
@@ -303,7 +303,7 @@ p{
 /*tablet and phone screen*/
 @media screen and (max-width:636px){
 	.project{
-		height:130vh;
+		height:150vh;
 	}
 
 	.background-design{
